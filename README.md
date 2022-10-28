@@ -40,3 +40,12 @@ In this project, I have used the dataset available on Kaggle. One can find vario
 
 #  Actual Gold Price vs Predicted Gold Price
 ![act vs pred](https://user-images.githubusercontent.com/115232340/198569615-99c44178-37c9-487d-961d-cd213810a957.png)
+
+# Conclusion- 
+As you saw in this project, we first train a machine learning model, then use the trained model for prediction. Similarly, any model can be made much more precise, by feeding a very large dataset, to get a very accurate score (but it will be pretty time-consuming). For a beginner, I feel the dataset that I had used was pretty decent.
+
+Thanks for reading…
+
+If you liked the article, do share it with your friends too.
+
+Have a good day..!!
