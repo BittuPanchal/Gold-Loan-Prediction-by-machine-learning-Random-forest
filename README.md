@@ -27,3 +27,16 @@ In this project, I have used the dataset available on Kaggle. One can find vario
 10. Prediction
 
 # First 5 rows of dataset-
+![5 rows ](https://user-images.githubusercontent.com/115232340/198569391-3be2ac20-4968-4f29-b701-b360428d2408.png)
+
+# Pairplot of dataset-
+![pairplot](https://user-images.githubusercontent.com/115232340/198569497-16e5e6a4-8e3d-4e94-9e74-315d53859e98.png)
+
+# Lineplot of all variables with date-
+![all columns](https://user-images.githubusercontent.com/115232340/198569559-ac75f6ee-0bb3-44d5-8611-1a631d12670d.png)
+
+# Correlation of each variables with other-
+![corr heatmap](https://user-images.githubusercontent.com/115232340/198569587-abe04893-5964-4f89-8947-da78f4323120.png)
+
+#  Actual Gold Price vs Predicted Gold Price
+![act vs pred](https://user-images.githubusercontent.com/115232340/198569615-99c44178-37c9-487d-961d-cd213810a957.png)
