@@ -7,3 +7,23 @@ A simple yet crisp definition, to understand what Random Forest Regression Algor
 
 The flow-chart depicting Random Forest Algorithm is shown below-
 ![70579Screenshot (152)](https://user-images.githubusercontent.com/115232340/198563378-71ec4754-c0f6-400b-ab5b-2fe4f32c5fee.png)
+
+# Work Flow-
+<img width="744" alt="96433Screenshot (153)" src="https://user-images.githubusercontent.com/115232340/198563606-61d0bb77-375a-4faf-be27-31eb93343968.png">
+
+# What is a Dataset-
+In this project, I have used the dataset available on Kaggle. One can find various such sites to download from. (Note that the larger the dataset, the more time the model will take to train. As a beginner-friendly suggestion, I will tell you to take a medium-sized dataset with not too many values, to first understand its working. The dataset that I’ve used in my code was the data available on Kaggle. You can also download it here. Although, you must also know, the more data you feed to the model for training, the more we can train our model, and the more accurate our results come out to be, but also, at the same time, the compilation time increases, and if you are a beginner, you may lose your enthusiasm in that tedious times. Don’t worry if all of this sounds weird to you, it did the same to me when I started too, it will all make sense in a few minutes.
+
+# Steps-
+1. Import Libraries
+2. Import Data'
+3. Convert datatype of date column
+4. Check Null values
+5. Statistics of dataset
+6. Data Visualization
+7. Define Dependent and Independent variables
+8. Split training and testing dataset and fit
+9. Check accuracy
+10. Prediction
+
+# First 5 rows of dataset-
