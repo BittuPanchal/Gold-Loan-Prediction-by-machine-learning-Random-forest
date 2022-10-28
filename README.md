@@ -4,4 +4,6 @@ Gold is  one of  the critical commodities  that  is used  as a barometer of  eco
 
 # A Brief about Random Forest Regression-
 A simple yet crisp definition, to understand what Random Forest Regression Algorithm is, will be, “Random Forest Regression is a supervised learning algorithm that uses ensemble learning method for regression. It operates by constructing several decision trees during training time and outputting the mean of the classes as the prediction of all the trees“
+
 The flow-chart depicting Random Forest Algorithm is shown below-
+![70579Screenshot (152)](https://user-images.githubusercontent.com/115232340/198563378-71ec4754-c0f6-400b-ab5b-2fe4f32c5fee.png)
